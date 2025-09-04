@@ -1,3 +1,5 @@
 config.yaml
 readme.py
 leetcode.py
+__pycache__
+backend_python_env
